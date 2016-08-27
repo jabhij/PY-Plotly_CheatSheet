@@ -24,7 +24,6 @@ Loading More...
 
 ### Catch me-
 
-
 For any query, ping me on 
 - Twitter: [@jabhij] (https://twitter.com/jabhij)
 - Web: [LetUsTweak] (http://letustweak.com)
