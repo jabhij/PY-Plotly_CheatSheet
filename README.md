@@ -14,7 +14,7 @@ A Python and Plotly based Cheat Sheet for interactive graph plotting and Data Vi
 Follow these files step by step as described here..
 
 - Getting_Started
-- Basic_Graphs
+- [Basic_Graphs](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Basic_Graphs)
 - Layouts
 - Statistical_Graphs
 - Mapping
