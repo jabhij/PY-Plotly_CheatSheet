@@ -1,5 +1,4 @@
 # Layout Designs
-
 # Starting with Legend and it's trace
 
 # Trace 1
@@ -22,4 +21,7 @@ layout = go.Layout(
   
 # Tracing 
 data = [trace1, trace2]
-fi
+fig = go.Figure(
+  data = data,
+  layout = layout)
+py.iplot(fig)
