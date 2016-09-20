@@ -17,7 +17,7 @@ Follow these files step by step as described here..
 - [Basic_Graphs](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Basic_Graphs)
 - [Layouts](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Layouts)
 - [Statistical_Graphs](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Statistical_Graphs)
-- [Mapping]()
+- [Maps](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Maps)
 - [3D_Graphs]()  
 Loading More...  
 (Please, have patient)
