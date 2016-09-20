@@ -1,5 +1,5 @@
 # Using Trace and histogram func
-trace = go.histogram(
+trace = go.Histogram(
   x = [2, 4, 4, 5, 6, 6, 8, 10])
 
 # Data Access and Plot
