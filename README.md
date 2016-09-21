@@ -18,7 +18,7 @@ Follow these files step by step as described here..
 - [Layouts](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Layouts)
 - [Statistical_Graphs](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Statistical_Graphs)
 - [Maps](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/Maps)
-- [3D_Graphs]()  
+- [3D_Graphs](https://github.com/jabhij/Plotly_Python_CheatSheet/tree/master/3D_Graphs)  
 Loading More...  
 (Please, have patient)
 
